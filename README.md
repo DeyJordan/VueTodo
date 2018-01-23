@@ -1,9 +1,9 @@
 # TodoVue
 
-<img src="Front/src/assets/Favicon.png" /> 
+<img src="VueTodo/frontend/src/assets/Favicon.png" /> 
 
 This basic to-do list manager app is part of a nodeJS (backend) and vueJS (frontend) project for the university.
-It allows people add, delete and see a list of to-do.
+It allows people add, delete, modify and see a to-do list.
 
 ((<img src="" width="300" /> <img src="" width="300" />)) add a screenshot could be nice
 
@@ -17,6 +17,7 @@ Anyway you will find a README in each folder to describe how to get started eith
 
 - You can add a to-do to the to-do list.
 - You can delete a to-do from the to-do list.
+- You can modify a to-do from the to-do list.
 - You can see all the to-do list, using a pagination.
 
 ## Contribution
@@ -26,6 +27,7 @@ If you want, feel free to contribute to this application.
 ## Author
 
 [Diana Baltrusaitis](https://github.com/nitabaltru)
+
 [Jordan Dey](https://github.com/DeyJordan)
 
 ## License
