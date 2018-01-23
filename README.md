@@ -18,11 +18,6 @@ Our recommendation is to begin doing the backend.
 - You can modify a to-do from the to-do list.
 - You can see all the to-do list, using a pagination.
 
-## Contribution
-
-If you want, feel free to contribute to this application.
-
-
 ## Some difficulties found
 
 We think the number of hours to learn both, nodeJs and VueJs, are not exactly what we need to do something as we have been asked to do.
