@@ -1,17 +1,15 @@
-# TodoVue
-
-<img align="center" src="frontend/src/assets/Favicon.png" />
+# TodoVue <img align="center" src="frontend/src/assets/Favicon.png" width="48" />
 
 This basic to-do list manager app is part of a nodeJS (backend) and vueJS (frontend) project for the university.
 It allows people add, delete, modify and see a to-do list.
-
-((<img src="" width="300" /> <img src="" width="300" />)) add a screenshot could be nice
 
 ## Getting Started
 
 You just need to clone the project copy up and running on your local machine for development and testing purposes.
 
 Anyway you will find a README in each folder to describe how to get started either front and back side of this app.
+
+Our recommendation is to begin doing the backend.
 
 ## Features
 
@@ -24,12 +22,18 @@ Anyway you will find a README in each folder to describe how to get started eith
 
 If you want, feel free to contribute to this application.
 
+
+## Some difficulties found
+
+We think the number of hours to learn both, nodeJs and VueJs, are not exactly what we need to do something as we have been asked to do.
+
+We found difficulties finding and installing third-part middlewares to arrive to do what was asking.
+Also, we had some difficulties trying to make it work both parts together.
+
+Anyway, we did it and it works ! 
+
 ## Author
 
 [Diana Baltrusaitis](https://github.com/nitabaltru)
 
 [Jordan Dey](https://github.com/DeyJordan)
-
-## License
-
-This project is licensed under the MIT License - a really simple and permissive license :) - see the [LICENSE](LICENSE) file for details
