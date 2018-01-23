@@ -1,4 +1,4 @@
-# VueTodo <img align="center" src="frontend/src/assets/Favicon.png" width="48" />
+# VueTodo <img align="center" src="frontend/src/assets/Favicon.png" width="40" />
 
 This basic to-do list manager app is part of a nodeJS (backend) and vueJS (frontend) project for the university.
 It allows people add, delete, modify and see a to-do list.
@@ -30,7 +30,7 @@ We think the number of hours to learn both, nodeJs and VueJs, are not exactly wh
 We found difficulties finding and installing third-part middlewares to arrive to do what was asked.
 Also, we had some difficulties trying to make it work both parts together.
 
-Anyway, we did it and it works ! 
+Anyway, we did it and it works ! :) we are so proud of us haha !
 
 ## Author
 
