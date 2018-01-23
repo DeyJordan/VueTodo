@@ -1,6 +1,6 @@
 # TodoVue
 
-<div style="text-align:center"><img src="frontend/src/assets/Favicon.png" /> </div>
+<img align="center" src="frontend/src/assets/Favicon.png" />
 
 This basic to-do list manager app is part of a nodeJS (backend) and vueJS (frontend) project for the university.
 It allows people add, delete, modify and see a to-do list.
