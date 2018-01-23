@@ -27,7 +27,7 @@ If you want, feel free to contribute to this application.
 
 We think the number of hours to learn both, nodeJs and VueJs, are not exactly what we need to do something as we have been asked to do.
 
-We found difficulties finding and installing third-part middlewares to arrive to do what was asking.
+We found difficulties finding and installing third-part middlewares to arrive to do what was asked.
 Also, we had some difficulties trying to make it work both parts together.
 
 Anyway, we did it and it works ! 
